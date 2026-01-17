@@ -13,3 +13,4 @@ Ubuntu Server 24.04 (ARM64) home lab VM running Docker services.
 cd docker
 docker compose up -d
 docker ps
+# SSH push test
